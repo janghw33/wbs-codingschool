@@ -1,3 +1,6 @@
 [submodule "workflow-test"]
 	path = workflow-test
 	url = git@github.com:janghw33/workflow-test.git
+[submodule "wd51-test"]
+	path = wd51-test
+	url = git@github.com:StephanUllmann/wd51-test.git
