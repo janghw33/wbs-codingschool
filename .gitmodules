@@ -16,3 +16,6 @@
 [submodule "cookbook"]
 	path = cookbook
 	url = git@github.com:mdMehediBillah/wd51-cookbook.git
+[submodule "hacker-new"]
+	path = hacker-new
+	url = git@github.com:Kolya-YA/WD51_HNews.git
