@@ -13,3 +13,6 @@
 [submodule "cms-project"]
 	path = cms-project
 	url = git@github.com:AnnaNnh01/contentful-mobile.git
+[submodule "cookbook"]
+	path = cookbook
+	url = git@github.com:mdMehediBillah/wd51-cookbook.git
