@@ -10,3 +10,6 @@
 [submodule "psd_to_html_local"]
 	path = psd_to_html_local
 	url = git@github.com:janghw33/psd_to_html.git
+[submodule "cms-project"]
+	path = cms-project
+	url = git@github.com:AnnaNnh01/contentful-mobile.git
