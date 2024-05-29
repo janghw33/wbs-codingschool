@@ -19,3 +19,6 @@
 [submodule "hacker-new"]
 	path = hacker-new
 	url = git@github.com:Kolya-YA/WD51_HNews.git
+[submodule "todo"]
+	path = todo
+	url = git@github.com:AlexJaegerPena/wd51-todo-list.git
